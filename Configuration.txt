@@ -1,0 +1,22 @@
+
+Configuration Files
+
+
+Environment DEV
+
+common/config/main.php
+universal / git
+
+
+common/config/main-local.php
+Universal / environemental /.gitignore
+Database configuration
+
+
+frontend/config/main.php
+Components and configurations specific to the front end not secure not environmentally aware
+
+
+
+frontend/config/main-local.php
+Front end specific /environmental /gitignore
