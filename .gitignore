@@ -37,3 +37,12 @@ environments/dev/console/config/params-local.php
 environments/dev/console/config/main-local.php
 environments/dev/frontend/config/params-local.php
 environments/dev/frontend/config/main-local.php
+
+environments/prod/backend/config/main-local.php
+environments/prod/backend/config/params-local.php
+environments/prod/common/config/params-local.php
+environments/prod/common/config/main-local.php
+environments/prod/console/config/params-local.php
+environments/prod/console/config/main-local.php
+environments/prod/frontend/config/params-local.php
+environments/prod/frontend/config/main-local.php
